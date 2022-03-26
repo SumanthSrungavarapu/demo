@@ -5,5 +5,4 @@ public class hello {
 		// TODO Auto-generated method stub
 		System.out.print("Heloo woorld");
 	}
-
 }
